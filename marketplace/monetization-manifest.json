@@ -1,0 +1,20 @@
+{
+  "classification": "product",
+  "files": {
+    ".github/FUNDING.yml": "written",
+    "COMMERCIAL.md": "written",
+    "PRIVACY.md": "written",
+    "SECURITY.md": "written",
+    "SPONSORS.md": "written",
+    "SUPPORT.md": "written",
+    "docs/MONETIZATION.md": "written",
+    "marketplace/direct-stripe-product.md": "written",
+    "marketplace/release-checklist.md": "written",
+    "marketplace/stripe/prices.template.json": "written",
+    "marketplace/stripe/products.template.json": "written"
+  },
+  "project": "Campaign Transparency Evidence Framework",
+  "secret_policy": "No credentials are stored in repository files.",
+  "slug": "campaign-transparency-evidence-framework",
+  "source_repo": "BoozeLee/campaign-transparency-evidence-framework"
+}

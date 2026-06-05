@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "name": "Campaign Transparency Evidence Framework",
+      "description": "Commercial support and delivery package for Campaign Transparency Evidence Framework.",
+      "metadata": {
+        "project": "campaign-transparency-evidence-framework",
+        "source_repo": "BoozeLee/campaign-transparency-evidence-framework",
+        "managed_by": "monetization-launch"
+      }
+    }
+  ]
+}
